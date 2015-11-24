@@ -1,0 +1,6 @@
+package: datahub
+Version: 0.5.2-1
+Architecture: amd64
+Maintainer: Zonesan Chai <chaizs@asiainfo.com>
+Description: Datahub client util
+ datahub client is a tool which allow you to publish or pull data.
