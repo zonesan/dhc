@@ -18,9 +18,8 @@ fi
 daemonid=$1
 
 url='http://hub.dataos.io'
-url='http://127.0.0.1:8000'
 
-deb_package='datahub_0.5.2-1_amd64.deb'
+deb_package='datahub_0.5.3-1_amd64.deb'
 
 command_exists() {
 	command -v "$@" > /dev/null 2>&1
