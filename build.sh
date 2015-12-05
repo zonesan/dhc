@@ -2,8 +2,8 @@
 
 package="datahub"
 major="0"
-minor="5"
-patch="3"
+minor="6"
+patch="0"
 release="1"
 ver=$major.$minor.$patch-$release
 arch="amd64"
